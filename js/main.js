@@ -44,6 +44,7 @@
 
      }
 
+
      function trackingApi(map,data,p,s){
 
           let i = Math.floor(data.features[0].geometry.coordinates.length*(p/100))
